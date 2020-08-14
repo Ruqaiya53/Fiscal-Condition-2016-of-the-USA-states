@@ -23,6 +23,6 @@ The data file and dashboard file can be found in this repo. Description of KPIs 
 
 Here is the Screenshot of the Dashboard.
 
-     <img scr="/Fiscal_Report_2016.jpg/">
+     <img scr="/Fiscal_Report_2016.jpg"/>
  
 
